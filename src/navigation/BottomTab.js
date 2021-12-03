@@ -18,6 +18,10 @@ const BottomTab = () => {
         tabBarLabelStyle: {
           fontSize: 10,
         },
+        headerStyle: {
+          backgroundColor: "#F9F9F9",
+          elevation: 0,
+        },
       }}
       initialRouteName="Vendors"
     >
